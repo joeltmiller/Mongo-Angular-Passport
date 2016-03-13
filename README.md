@@ -1,2 +1,2 @@
-# Lecture-Passport-Mongo-Done
-# Mongo-Angular-Passport
+# MEAN Stack App w/ Passport
+An example of a traditional MEAN stack application authenticating with Passport.js
